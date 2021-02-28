@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace cookie_authincation_test
 {
     public class UserAuthincateResponse
-    {
+    { 
         public string UserId { get; set; }
         public string UserName { get; set; }
         public string EmailAddress { get; set; }
