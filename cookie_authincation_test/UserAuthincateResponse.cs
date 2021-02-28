@@ -11,5 +11,6 @@ namespace cookie_authincation_test
         public string UserName { get; set; }
         public string EmailAddress { get; set; }
         public DateTime CreationDate { get; set; }
+        public string Token { get; set; }
     }
 }
